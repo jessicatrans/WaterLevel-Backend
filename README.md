@@ -2,6 +2,7 @@
 
 Node and Express Server for AJAX requests
 
+Visit [Water Level Frontend](https://github.com/jessicatrans/WaterLevel-Frontend/tree/master)
 Frontend
 - use React to make chart and month picker appear and disappear, create a "see more" or "see less" button
 - need to use the state hook with a state variable changed by the button and used to determine what to add to the virtual DOM
